@@ -1,4 +1,4 @@
-1 ui
+3 ui
 2 tenen knoflook
 2 eetlepels olie
 200 gr wortel
@@ -14,3 +14,4 @@ Snuf peper en zout
 2 bollen mozzarella
 12 lasagnebladen
 handje geraspte kaas
+parmazaanse kaas
